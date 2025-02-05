@@ -1,0 +1,146 @@
+/* Menu Items Images */
+.menu-item:nth-child(1) {
+    background: url('https://media.istockphoto.com/id/664313320/photo/espresso-coffee-cup-with-beans-on-vintage-table.jpg?s=612x612&w=0&k=20&c=kaF8P4KuAlVhAm9zNcq5DxSimOv8w3yVQynS4dwPBHc=') no-repeat center center/cover;
+  }
+  .menu-item:nth-child(2) {
+    background: url('https://media.istockphoto.com/id/505168330/photo/cup-of-cafe-latte-with-coffee-beans-and-cinnamon-sticks.jpg?s=612x612&w=0&k=20&c=h7v8kAfWOpRapv6hrDwmmB54DqrGQWxlhP_mTeqTQPA=') no-repeat center center/cover;
+  }
+  .menu-item:nth-child(3) {
+    background: url('https://t4.ftcdn.net/jpg/01/94/82/87/360_F_194828703_vuNjz8Otb66VfI4rQyg9tBUPuGAugsUR.jpg') no-repeat center center/cover;
+  }
+  .menu-item:nth-child(4) {
+    background: url('https://media.istockphoto.com/id/1256670482/photo/turkey-sandwich-with-tomato-and-lettuce.jpg?s=612x612&w=0&k=20&c=CPwIFBHQqOob3SNZbegKKjUVL6xkUZgoQ2cxT0jcUrQ=') no-repeat center center/cover;
+  }
+  .menu-item:nth-child(5) {
+    background: url('https://media.istockphoto.com/id/1148638351/photo/sunday-breakfast.jpg?s=612x612&w=0&k=20&c=QXiLI-lY6wSKFxIZ1VpS3OopD-842NzOlSsCWJ2pzYA=') no-repeat center center/cover;
+  }
+  .menu-item:nth-child(6) {
+    background: url('https://media.istockphoto.com/id/625048786/photo/bagels.jpg?s=612x612&w=0&k=20&c=bY0cn0oRFH4ozkAKs4JI9XRdA4GEOaOMQ7pNSf8FO7E=') no-repeat center center/cover;
+  }
+  
+  
+  
+  .highlight {
+    color: #c2764b; /* Coffee-themed color */
+    font-weight: bold;
+  }
+  
+  .cursive {
+    font-family: 'Lora', serif; /* Stylish cursive font */
+    font-style: italic;
+  }
+  
+  .subtitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+  
+    
+  
+  /* Adjusting Menu Items Layout */
+  
+
+  .menu-item {
+    color: #333;
+    background-size: cover;
+    padding: 1rem;
+    border-radius: 10   px;
+    box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 600px; /* Adjust as needed */
+    text-align: center;
+    color: #fff;
+    position: relative;
+    margin: 15px;
+  }
+  
+  .menu-item h3 {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 0.5rem;
+    margin: 10px;
+  }
+  
+  .menu-item p {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 0.3rem;
+    margin: 10px;
+  }
+  
+/* Menu Items Images */
+.menu-item:nth-child(1) {
+    background: url('https://media.istockphoto.com/id/664313320/photo/espresso-coffee-cup-with-beans-on-vintage-table.jpg?s=612x612&w=0&k=20&c=kaF8P4KuAlVhAm9zNcq5DxSimOv8w3yVQynS4dwPBHc=') no-repeat center center/cover;
+  }
+  .menu-item:nth-child(2) {
+    background: url('https://media.istockphoto.com/id/505168330/photo/cup-of-cafe-latte-with-coffee-beans-and-cinnamon-sticks.jpg?s=612x612&w=0&k=20&c=h7v8kAfWOpRapv6hrDwmmB54DqrGQWxlhP_mTeqTQPA=') no-repeat center center/cover;
+  }
+  .menu-item:nth-child(3) {
+    background: url('https://t4.ftcdn.net/jpg/01/94/82/87/360_F_194828703_vuNjz8Otb66VfI4rQyg9tBUPuGAugsUR.jpg') no-repeat center center/cover;
+  }
+  .menu-item:nth-child(4) {
+    background: url('https://media.istockphoto.com/id/1256670482/photo/turkey-sandwich-with-tomato-and-lettuce.jpg?s=612x612&w=0&k=20&c=CPwIFBHQqOob3SNZbegKKjUVL6xkUZgoQ2cxT0jcUrQ=') no-repeat center center/cover;
+  }
+  .menu-item:nth-child(5) {
+    background: url('https://media.istockphoto.com/id/1148638351/photo/sunday-breakfast.jpg?s=612x612&w=0&k=20&c=QXiLI-lY6wSKFxIZ1VpS3OopD-842NzOlSsCWJ2pzYA=') no-repeat center center/cover;
+  }
+  .menu-item:nth-child(6) {
+    background: url('https://media.istockphoto.com/id/625048786/photo/bagels.jpg?s=612x612&w=0&k=20&c=bY0cn0oRFH4ozkAKs4JI9XRdA4GEOaOMQ7pNSf8FO7E=') no-repeat center center/cover;
+  }
+  
+  
+  
+  .highlight {
+    color: #c2764b; /* Coffee-themed color */
+    font-weight: bold;
+  }
+  
+  .cursive {
+    font-family: 'Lora', serif; /* Stylish cursive font */
+    font-style: italic;
+  }
+  
+  .subtitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+  
+    
+  
+  /* Adjusting Menu Items Layout */
+  
+
+  .menu-item {
+    color: #333;
+    background-size: cover;
+    padding: 1rem;
+    border-radius: 10   px;
+    box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 600px; /* Adjust as needed */
+    text-align: center;
+    color: #fff;
+    position: relative;
+    margin: 15px;
+  }
+  
+  .menu-item h3 {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 0.5rem;
+    margin: 10px;
+  }
+  
+  .menu-item p {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 0.3rem;
+    margin: 10px;
+  }
+  
